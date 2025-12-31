@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6c0db11-eb07-438d-b53c-72e76a3a3832" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/check screen size/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress-e2e-testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress-e2e-testing/cypress.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress-e2e-testing/cypress/e2e/0-myown/1-navigation.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress-e2e-testing/cypress/e2e/0-myown/2-categories.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress-e2e-testing/cypress/support/commands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress-e2e-testing/cypress/support/e2e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress-e2e-testing/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress-e2e-testing/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/check screen size/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/check screen size/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767167563754</updated>
       <workItem from="1767167565346" duration="174000" />
-      <workItem from="1767167743888" duration="372000" />
+      <workItem from="1767167743888" duration="683000" />
     </task>
     <servers />
   </component>
