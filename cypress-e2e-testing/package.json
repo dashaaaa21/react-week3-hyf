@@ -1,0 +1,15 @@
+{
+  "name": "cypress-e2e-testing",
+  "version": "1.0.0",
+  "description": "Cypress E2E testing exercise",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.8.1"
+  }
+}
