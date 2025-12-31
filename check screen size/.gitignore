@@ -9,3 +9,5 @@ build/
 
 *.log
 npm-debug.log*
+
+.idea/
